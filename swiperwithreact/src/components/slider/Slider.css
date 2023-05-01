@@ -1,0 +1,9 @@
+p{
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: right;
+    background-color: wheat;
+    width: auto;
+    height: 50px;
+}

@@ -1,0 +1,19 @@
+[
+    {
+        "name": "santori",
+        "image":"https://dummyimage.com/130x130/000/fff.jpg&text=test",
+        "price": 220
+    }
+    ,
+    {
+        "name": "maziar",
+        "image":"public\\images\\1.png",
+        "price": 440
+    }
+    ,
+    {
+        "name": "jahani",
+        "image":".\\..\\public\\images\\4.jpg",
+        "price": 600
+    }
+]

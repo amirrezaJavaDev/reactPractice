@@ -1,0 +1,20 @@
+[
+    {
+        "image":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg",
+        "title":"The Last Kingdom: Seven Kings Must Die",
+        "Subtitle":"In the wake of King Edward's death, Uhtred of Bebbanburg and his comrades adventure across a fractured kingdom in the hopes of uniting England at last.",
+        "interval":1500
+    },
+    {
+        "image":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+        "title":"The Super Mario Bros. Movie",
+        "Subtitle":"While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+        "interval":500
+    },
+    {
+        "image":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+        "title":"Avatar: The Way of Water",
+        "Subtitle":"Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+        "interval":2500
+    }
+]

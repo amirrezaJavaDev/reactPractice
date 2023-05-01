@@ -1,0 +1,52 @@
+[
+  {
+    "departmentName":"واحد اداری",
+    "membersOfDepartment":[
+      {
+        "firstName": "حميدرضا",
+        "lastName": "نصيری",
+        "capacity": "مدیر اجرایی"
+      },
+      {
+        "firstName": "پریسا",
+        "lastName": "خان پور",
+        "capacity": "مسئول امور اداری"
+      },
+      {
+        "firstName": "محمد",
+        "lastName": "ترده",
+        "capacity": "مسئول بایگانی"
+      }
+    ]
+  },
+  {
+    "departmentName":"مشاورین",
+    "membersOfDepartment":[
+      {
+        "firstName": "سعید",
+        "lastName": "فوقی",
+        "capacity": "مشاور مالیاتی"
+      },
+      {
+        "firstName": "بهاره",
+        "lastName": "کریمی",
+        "capacity": "مشاور حقوقی"
+      }
+    ]
+  },
+  {
+    "departmentName":"کمیسیون رسیدگی به شکایات",
+    "membersOfDepartment":[
+      {
+        "firstName": "علی اکبر",
+        "lastName": "مقولان",
+        "capacity": ""
+      },
+      {
+        "firstName": "بهاره",
+        "lastName": "کریمی",
+        "capacity": "مشاور حقوقی"
+      }
+    ]
+  }
+]
